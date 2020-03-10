@@ -53,4 +53,4 @@ ujson==1.33
 django-crontab==0.7.1
 xlwt
 django-admin-list-filter-dropdown
-django-categories==1.7
+django-categories==1.5.4
