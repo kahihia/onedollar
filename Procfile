@@ -1,1 +1,1 @@
-web: gunicorn onedollar_backend.wsgi --log-file 
+web: gunicorn onedollar_backend.wsgi
