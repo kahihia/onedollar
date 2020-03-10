@@ -14,6 +14,6 @@ class Migration(migrations.Migration):
         migrations.AlterField(
             model_name='onedollaruser',
             name='total_order',
-            field=models.IntegerField(default=b'default_total_order'),
+            field=models.IntegerField(default=0),
         ),
     ]
