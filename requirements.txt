@@ -3,7 +3,6 @@ git+git://github.com/seamusmb/django-paginator-rawqueryset.git
 cffi==1.2.1
 chardet==2.3.0
 cryptography
-dj-database-url==0.5.0
 dateutils==0.6.6
 diff-match-patch==20121119
 Django==1.8.3
@@ -39,7 +38,7 @@ pyasn1==0.1.9
 pycparser==2.14
 pycrypto==2.6.1
 pyfcm==1.2.1
-pyOpenSSL==0.15.1
+pyOpenSSL
 python-dateutil==2.4.2
 pytz==2015.4
 PyYAML==3.11
