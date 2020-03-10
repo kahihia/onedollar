@@ -271,7 +271,7 @@ USE_L10N = True
 USE_TZ = True
 
 # SITE_URL = 'http://localhost:8888/'
-SITE_URL = 'https://dailywashbackend.herokuapp.com/'
+SITE_URL = 'https://doller.herokuapp.com/'
 
 STATIC_URL = SITE_URL + 'static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
@@ -329,7 +329,7 @@ DATE_DISPLAY_PRODUCT_AFTER = 160
 FOURSQUARE_CLIENT_ID = 'ZPCMMIHKOID2FWWCULIAQKBFI1JA3LMTQFXH3ZYU2KEE5YOC'
 FOURSQUARE_CLIENT_SECRET = 'JPWGI1R5T22TQ3YAIRHSAREUISAUCMI2QT2LFOWSCAJX5SPU'
 
-ONEDOLLAR_BIZ_URL = 'http://onedollar.giinger.com/'
+ONEDOLLAR_BIZ_URL = 'https://doller.herokuapp.com/'
 # ONEDOLLAR_BIZ_URL = 'http://onedollarapp.biz/'
 
 ANDROID_CLIENT_ID = '26835176988-bafn42hjv6aagkan9rbqmujjpgq17ea6.apps.googleusercontent.com'
