@@ -47,7 +47,7 @@ requests==2.8.1
 Sendinblue==2.0.5.1
 six==1.9.0
 stripe==1.48.1
-whitenoise==5.0.1
+whitenoise==3.0.4
 tablib==0.11.2
 ujson==1.33
 django-crontab==0.7.1
